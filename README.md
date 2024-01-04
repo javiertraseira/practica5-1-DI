@@ -1,6 +1,6 @@
 # Práctica 5.1 Ejercicio grid en Bootstrap
 
-Crea un diseño en **Bootstrap** con al menos 12 componentes y 5 filas (pueden ser imágenes, o cuadros de texto) con las siguientes características:
+Crea un diseño en **Bootstrap** con al menos 12 componentes y 5 filas (pueden ser cuadros de texto, pero también imágenes)  con las siguientes características:
 
 -   Deberá de tener una cabecera y un footer a tamaño completo (excepto en el tamaño extra-small)
 -   Deberá de tener 4 cajas que se ajusten a diferentes tamaños con diversos efectos y proporciones al variar el tamaño.

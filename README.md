@@ -3,7 +3,7 @@
 Crea un diseño en **Bootstrap** con al menos 12 componentes y 5 filas (pueden ser cuadros de texto, pero también imágenes)  con las siguientes características:
 
 -   Deberá de tener una cabecera y un footer a tamaño completo (excepto en el tamaño extra-small)
--   Deberá de tener 4 cajas que se ajusten a diferentes tamaños con diversos efectos y proporciones al variar el tamaño.
+-   Deberá de tener 4 cajas que se ajusten a diferentes tamaños con diversos efectos y proporciones al variar el tamaño. En el tamaño mínimo deberá tener al menos dos columnas.
 -   Deberá de mostrar un cuadro informativo indicando el tamaño mostrado en ese momento (excepto para el tamaño *extra-small*)
 -   Deberá mostrar otra línea con botones u otros componentes de tu elección.
 -   Deberá ajustarse al menos a tres tamaños distintos.

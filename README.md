@@ -14,7 +14,7 @@ Adjunta el enlace (público) de Figma y capturas de pantalla.
 
 ## Parte 2
 
-Crea un prototipo web de **Landing Page** con al menos los siguientes elementos:
+Crea en Figma otro prototipo web de un **Landing Page** con al menos los siguientes elementos:
 -   Un gradiente de fondo.
 -   Un título y un subtítulo.
 -   Al menos dos botones.

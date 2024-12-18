@@ -27,4 +27,6 @@ Adjunta el enlace (público) de Figma y capturas de pantalla.
 
 ## Parte 3 
 
-Convierte el ejercicio anterior del **Landing Page** a código HTML y CSS usando las propiedades ya conocidas y ayudándote del editor de Figma y/o sus plugins de exportación de código. Busca que la web generada sea responsive.
+- Convierte el ejercicio anterior del **Landing Page** a código HTML y CSS usando las propiedades ya conocidas y ayudándote del editor de Figma y/o sus plugins de exportación de código. 
+- La web generada deberá ser responsive.
+- Agrega al menú 2 enlaces que funcionen a dos páginas aparte del landing page.

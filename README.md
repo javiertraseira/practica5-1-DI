@@ -15,11 +15,11 @@ Adjunta el enlace (público) de Figma y capturas de pantalla.
 
 ## Parte 2
 
-Crea en Figma otro prototipo web de un **Landing Page** con al menos los siguientes elementos:
+Crea en Figma otro prototipo web de una **Landing Page** con al menos los siguientes elementos:
 -   Un gradiente de fondo.
 -   Un título y un subtítulo.
 -   Al menos dos botones.
--   Un submenú superior.
+-   Un menú superior de navegación.
 -   Una o dos imágenes SVG.
 -   Un vector de relleno que complemente fondo.
 
@@ -27,4 +27,4 @@ Adjunta el enlace (público) de Figma y capturas de pantalla.
 
 ## Parte 3 
 
-Prepara el diseño para exportar dicho **Landing Page** anterior al código HTML y CSS correspondiente usando las propiedades ya conocidas y ayudándote del editor de Figma y sus plugins de exportación de código.
+Convierte el ejercicio anterior del **Landing Page** a código HTML y CSS usando las propiedades ya conocidas y ayudándote del editor de Figma y/o sus plugins de exportación de código. Busca que la web generada sea responsive.

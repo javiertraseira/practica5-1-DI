@@ -3,7 +3,7 @@
 ## Parte 1
 
 Crea en Figma un prototipo de **aplicación móvil** interactiva que cumpla las siguientes características:
--   Utilice varios frames (más de 2-3).
+-   Utilice varios frames (al menos 3).
 -   Utilizar elementos de iconografía.
 -   Utilizar una o dos imágenes SVG.
 -   Texto, botones y un formulario.
